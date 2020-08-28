@@ -1,8 +1,5 @@
 """
 Date: 10/08/2019
-Class: CS5310
-Assignment: Graph library
-Author(s): Zhongqiu Gao
 Test script for Vertex. Only some simple test.
 The combined tests for vertices and edges are in test_edge.py
 """
