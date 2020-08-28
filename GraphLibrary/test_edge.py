@@ -1,8 +1,5 @@
 """
 Date: 10/08/2019
-Class: CS5310
-Assignment: Graph library
-Author(s): Zhongqiu Gao
 Test script for Edge, with some Vertex test involved.
 """
 
